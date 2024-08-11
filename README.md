@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ritaja+Ghosh....;Nice+to+meet+you!&center=true&size=30">
@@ -10,18 +9,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi,I am Ritaja Ghosh , a passionate Web Developer and Machine Learning enthusiast from India
+  Hi, I am Ritaja Ghosh, a passionate Web Developer and Machine Learning enthusiast from India
   <br>
   <br>
-  🔬 I'm currently studying Engineering in Kolkata , Department of Electronics and Communication Engineering 🎓
+  🔬 I'm currently studying Engineering in Kolkata, Department of Electronics and Communication Engineering 🎓
   <br>
   💻 I love exploring the living colors of development
   <br>
   📚 I’m currently learning Automated Machine Learning using Amazon Web Services and Amazon SageMaker
   <br>
-  💬 Ask me anything about from <a href="https://github.com/Ritaja-mist/Ritaja-mist/issues" title="Issues">Here</a>
+  💬 Ask me anything from <a href="https://github.com/Ritaja-mist/Ritaja-mist/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="ritajag821@gmail.com">ritajag821@gmail.com</a>
+  📫 How to reach me: <a href="mailto:ritajag821@gmail.com">ritajag821@gmail.com</a>
 </p>
 
 <hr>
@@ -72,4 +71,4 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritaja-mist&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p
+</p>
