@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="linkedin.com/in/ritaja-ghosh-6b5ba8276" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://linkedin.com/in/linkedin.com/in/ritaja-ghosh-6b5ba8276/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
